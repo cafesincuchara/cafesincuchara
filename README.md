@@ -26,8 +26,8 @@ Estudiante de **Ingeniería en Informática** | Aspirante a **Java Backend Devel
 
 ## 📫 Contacto
 
-- ✉️ Correo: tuemail@ejemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- ✉️ Correo: v.herrera.dev@outlook.com
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/vicente-herrera-solis-b1b0a8346/)
 
 ---
 
