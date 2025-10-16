@@ -31,6 +31,5 @@ Estudiante de **Ingeniería en Informática** | Aspirante a **Java Backend Devel
 
 ---
 
-### ⚡ Frase
 
 *"Aprendiendo y practicando para convertirme en Backend Java Developer."*
