@@ -15,8 +15,8 @@ Certificaciones:
   Scrum Product Owner Professional Certification - SPOPC®
   Microsoft Certified: Azure Fundamentals (AZ-900).
 
-      Forma de trabajo:
-      
+
+- Forma de trabajo:      
       - Arquitecturas Modernas: Implementación de Monolitos Modulares con Spring Modulith y fundamentos de Arquitectura Hexagonal.
       - Event-Driven Design: Desarrollo de flujos asíncronos desacoplados mediante el uso de RabbitMQ.
       - Persistencia Avanzada: Gestión de transaccionalidad, relaciones complejas y auditoría con Spring Data JPA e Hibernate.
