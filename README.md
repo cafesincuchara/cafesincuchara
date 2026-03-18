@@ -14,6 +14,7 @@ Certificaciones:
   - Scrum Product Owner Professional Certification - SPOPC®
   - Microsoft Certified: Azure Fundamentals (AZ-900).
 
+
   - Forma de trabajo:
   
       - Arquitecturas Modernas: Implementación de Monolitos Modulares con Spring Modulith y fundamentos de Arquitectura Hexagonal.
